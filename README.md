@@ -1,10 +1,12 @@
 spark-number5
 =============
 
-Various examples for the Spark core
+A folder with all my test and examples with the Spark Core
 
 RGBClock
+-------------
 
-Based on https://www.hackster.io/maxeust/temperature-sensitive-led and http://whatcolourisit.scn9a.org/ an RGB Clock!
+Based on https://www.hackster.io/maxeust/temperature-sensitive-led 
+and from the idea of http://whatcolourisit.scn9a.org/ an RGB Clock!
 
  
