@@ -1,0 +1,3 @@
+[submodule "rgbclock/SparkTime"]
+	path = rgbclock/SparkTime
+	url = https://github.com/bkobkobko/SparkTime.git
